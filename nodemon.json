@@ -1,0 +1,9 @@
+{
+    "env": {
+        "PORT": 5000,
+        "DB_USER": "admin-niki",
+        "DB_PASSWORD": "1gyW8uMOzUyjfzaOD5uu",
+        "DB_NAME": "todoli-dev",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
